@@ -22,7 +22,7 @@ Certainly! Here are the key features formalized in points:
 ###Technological Stack:
 
 1. **Backend**: 
-    -RESTful API: Provides endpoints for fetching real-time location data, which can be consumed by various front-end applications.
-    -Geographical Data: Supplies detailed geographical information, such as latitude and longitude, through API endpoints.
+      - RESTful API: Provides endpoints for fetching real-time location data, which can be consumed by various front-end applications.
+      - Geographical Data: Supplies detailed geographical information, such as latitude and longitude, through API endpoints.
 3. **Geolocation API**: 
-    -Integrates with web-based Geolocation APIs to fetch real-time location data accurately.
+      - Integrates with web-based Geolocation APIs to fetch real-time location data accurately.
