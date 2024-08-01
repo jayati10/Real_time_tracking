@@ -30,7 +30,5 @@ Certainly! Here are the key features formalized in points:
 
 
 
-## Demo Video
-
-[![Watch the video](http://img.youtube.com/vi/Pe_Eu_tLGtA/0.jpg)](https://www.youtube.com/watch?v=YPe_Eu_tLGtA)
+## Demo Video : https://www.youtube.com/watch?v=YPe_Eu_tLGtA
 
